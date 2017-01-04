@@ -7,5 +7,5 @@
 
 **Thoughts:**  Struggled to complete the basic HTML & Page Layout. 
 
-####**Link to work:** [Calculator App](http://www.example.com)
+#### **Link to work:** [Calculator App](http://www.example.com)
 
